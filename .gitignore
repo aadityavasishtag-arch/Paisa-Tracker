@@ -1,0 +1,22 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Personal expense database
+expenses.db
+
+# Exported expense files
+*.csv
+
+# Environment variables and secrets
+.env
+
+# VS Code settings
+.vscode/
+
+
